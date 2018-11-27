@@ -11,3 +11,14 @@ C:\Users\Vaiva\source\repos\Scraper\obj\Debug\Scraper.pdb
 C:\Users\Vaiva\source\repos\Scraper\bin\Debug\phantomjs-license.txt
 C:\Users\Vaiva\source\repos\Scraper\bin\Debug\Ionic.Zip.dll
 C:\Users\Vaiva\source\repos\Scraper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vaiva\Documents\GitHub\Scraper\Scraper\bin\Debug\Scraper.exe.config
+C:\Users\Vaiva\Documents\GitHub\Scraper\Scraper\bin\Debug\Scraper.exe
+C:\Users\Vaiva\Documents\GitHub\Scraper\Scraper\bin\Debug\Scraper.pdb
+C:\Users\Vaiva\Documents\GitHub\Scraper\Scraper\bin\Debug\Ionic.Zip.dll
+C:\Users\Vaiva\Documents\GitHub\Scraper\Scraper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vaiva\Documents\GitHub\Scraper\Scraper\bin\Debug\WebDriver.dll
+C:\Users\Vaiva\Documents\GitHub\Scraper\Scraper\bin\Debug\WebDriver.xml
+C:\Users\Vaiva\Documents\GitHub\Scraper\Scraper\obj\Debug\Scraper.csproj.CoreCompileInputs.cache
+C:\Users\Vaiva\Documents\GitHub\Scraper\Scraper\obj\Debug\Scraper.csproj.CopyComplete
+C:\Users\Vaiva\Documents\GitHub\Scraper\Scraper\obj\Debug\Scraper.exe
+C:\Users\Vaiva\Documents\GitHub\Scraper\Scraper\obj\Debug\Scraper.pdb
